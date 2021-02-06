@@ -1,5 +1,5 @@
 # Note-Taker.
-
+Worked together with luna,menuka and ikra.
  ## description
   This application will help you creat a Note and update it later.
 ##  Contents
